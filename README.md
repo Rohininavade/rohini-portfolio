@@ -33,14 +33,6 @@ rohini-portfolio/
 - Contact section with social links
 - Responsive navigation and reveal animations
 
-## Resume
-
-Place the final resume PDF in:
-
-```text
-assets/Rohini_Navade_Resume.pdf
-```
-
 The hero section and download button link to this file.
 
 ## Run Locally
