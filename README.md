@@ -19,8 +19,6 @@ rohini-portfolio/
 ├── style.css
 ├── script.js
 ├── README.md
-├── assets/
-│   └── Rohini_Navade_Resume.pdf
 └── other static assets if added later
 ```
 
